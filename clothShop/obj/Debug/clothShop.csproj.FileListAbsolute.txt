@@ -1,0 +1,14 @@
+D:\csharp\clothShop\clothShop\bin\Debug\clothShop.exe.config
+D:\csharp\clothShop\clothShop\bin\Debug\clothShop.exe
+D:\csharp\clothShop\clothShop\bin\Debug\clothShop.pdb
+D:\csharp\clothShop\clothShop\obj\Debug\clothShop.csprojResolveAssemblyReference.cache
+D:\csharp\clothShop\clothShop\obj\Debug\clothShop.addnewitem.resources
+D:\csharp\clothShop\clothShop\obj\Debug\clothShop.Form1.resources
+D:\csharp\clothShop\clothShop\obj\Debug\clothShop.Properties.Resources.resources
+D:\csharp\clothShop\clothShop\obj\Debug\clothShop.signup.resources
+D:\csharp\clothShop\clothShop\obj\Debug\clothShop.csproj.GenerateResource.Cache
+D:\csharp\clothShop\clothShop\obj\Debug\clothShop.exe
+D:\csharp\clothShop\clothShop\obj\Debug\clothShop.pdb
+F:\C#\backup copy varsity\clothShop\clothShop\bin\Debug\clothShop.exe.config
+F:\C#\backup copy varsity\clothShop\clothShop\obj\Debug\clothShop.exe
+F:\C#\backup copy varsity\clothShop\clothShop\obj\Debug\clothShop.pdb
